@@ -2,10 +2,10 @@
 #export SNOWFLAKE_DEFAULT_CONNECTION_NAME="default"
 
 [default]
-account = "myaccount"
-user = "myuser"
-password = "mypassword"
-role = "HOL_ROLE"
+account = "SFLSE_TEST"
+user = "jmaragna"
+password = "MLOps_Thesis_25!"
+role = "ULTRASONIC_ROLE"
 warehouse = "HOL_WH"
 database = "HOL_DB"
 schema = "ANALYTICS"
